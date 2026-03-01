@@ -1,3 +1,3 @@
-# action-repo-dummy
+# action-repo
 
 Testing push event
